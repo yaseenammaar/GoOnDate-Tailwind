@@ -439,14 +439,12 @@ function App() {
       // if (infoIsLoaded) {
         e = e.slice(4);
         var found = 0;
-        if (!e.includes("2021")) {
           return (
             <span className="text-sm p-3 text-red-500">
               Coming Soon
               <br />
             </span>
           );
-        }
 
       soldNfts
         .filter((val) => {
@@ -995,7 +993,7 @@ function App() {
 
       {/* Copyright */}
       <div className="text-sm w-full py-4 px-16 text-gray-700">
-        © 2022 GoOnDate
+        © 22 GoOnDate
       </div>
     </main>
   );
