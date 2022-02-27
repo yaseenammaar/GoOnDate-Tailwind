@@ -727,12 +727,8 @@ function App() {
               <div
                 className="rounded-xl cursor-pointer shadow my-2 mx-1 transition shadow-gray-300 duration-150 overflow-hidden hover:shadow-lg"
                 onClick={() => {
-                  if (e.includes("2021")) {
-                    setNftTitle(e);
-                    setIsModalOpen(true);
-                  } else {
+                 
                     toast("NFT Coming Soon!", { icon: "🤘" });
-                  }
 
                   setIsSelectedNftSold(
                     dateIsSoldForModal(e) === true ? true : false
