@@ -685,6 +685,7 @@ function App() {
           </a>
         </div>
       </section>
+      <div id="buy"></div>
 
       <section className="my-16 px-8 sm:px-16 md:px-28">
         {/* Date Filter */}
