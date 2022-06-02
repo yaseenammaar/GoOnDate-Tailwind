@@ -24,4 +24,4 @@ import { Link } from "wouter";
 ```
 
 
-![Screenshot]([./screenshot.png?raw=true](https://raw.githubusercontent.com/yaseenammaar/GoOnDate-Tailwind/main/screencapture-localhost-3000-2022-06-02-13_58_26.png) "Screenshot")
+![Screenshot]( ./screencapture-localhost-3000-2022-06-02-13_58_26.png "Screenshot")
