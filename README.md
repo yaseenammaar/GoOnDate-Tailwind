@@ -1,5 +1,7 @@
 # GoOnDate-Tailwind
 
+
+
 1. To install dependencies run `yarn`
 1. To run development server run `yarn dev`
 1. To run build project run `yarn build` // you will find build files in dist folder
@@ -20,3 +22,6 @@ import { Link } from "wouter";
   <a className="active">Go To WarDates</a>
 </Link>;
 ```
+
+
+![Screenshot]([./screenshot.png?raw=true](https://raw.githubusercontent.com/yaseenammaar/GoOnDate-Tailwind/main/screencapture-localhost-3000-2022-06-02-13_58_26.png) "Screenshot")
