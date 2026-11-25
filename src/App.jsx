@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Sniff Labs LLC. All rights reserved.
 import { useState, useEffect } from "react";
 // import { web3 } from "@project-serum/anchor";
 //import DatePicker from "react-date-picker";

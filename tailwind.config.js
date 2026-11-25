@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Sniff Labs LLC. All rights reserved.
 module.exports = {
   content: ["./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
